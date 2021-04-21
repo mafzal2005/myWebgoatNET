@@ -1,7 +1,6 @@
 using System;
 using System.Data;
-/// using MySql.Data.MySqlClient;
-using System.Data.SQLite;
+using MySql.Data.MySqlClient;
 using log4net;
 using System.Reflection;
 using System.Diagnostics;
