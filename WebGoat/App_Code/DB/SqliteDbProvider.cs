@@ -1,10 +1,10 @@
 using System;
 using System.Data;
-##using Mono.Data.Sqlite;
+/// ##using Mono.Data.Sqlite;
 using log4net;
 using System.Reflection;
 using System.IO;
-###using System.Diagnostics;
+/// ###using System.Diagnostics;
 using System.Threading;
 
 namespace OWASP.WebGoat.NET.App_Code.DB
