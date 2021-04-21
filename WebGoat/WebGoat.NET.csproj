@@ -922,7 +922,7 @@
     <Compile Include="Resources\Master-Pages\Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
-    <Compile Include="App_Code\DB\SqliteDbProvider.cs" />
+    <!-- <Compile Include="App_Code\DB\SqliteDbProvider.cs" /> -->
     <Compile Include="App_Code\DB\MySqlDbProvider.cs" />
     <Compile Include="App_Code\Encoder.cs" />
     <Compile Include="App_Code\DB\DbProviderFactory.cs" />
